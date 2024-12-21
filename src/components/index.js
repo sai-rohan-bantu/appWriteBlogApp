@@ -8,7 +8,7 @@ import RTE from "./RTE";
 import Signup from "./Signup";
 import Login from "./Login";
 import Button from "./Button";
-import PostForm from "./Post-Form/Postform";
+import Postform from './Post-Form/Postform';
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout";
 import Input from "./Input";
@@ -22,7 +22,7 @@ export {
     Signup,
     Login,
     Button,
-    PostForm,
+    Postform,
     PostCard,
     AuthLayout, 
     Input,
